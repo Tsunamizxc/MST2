@@ -53,8 +53,8 @@ body {
 }
 @media (max-width: 770px) {
   .bbox {
-    border-right: 15rem solid black;
-    border-left: 15rem solid black;
+    border-right: 9rem solid black;
+    border-left: 9rem solid black;
   }
 }
 
